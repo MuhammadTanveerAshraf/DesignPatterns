@@ -27,6 +27,8 @@ namespace DesignPatterns
                     Console.WriteLine(y.GetType().Name);
                 });
             });
+
+            Console.WriteLine("***************************************\n\n");
         }
 
         //Product

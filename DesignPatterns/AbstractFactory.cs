@@ -21,6 +21,7 @@ namespace DesignPatterns
             world = new AnimalWorld(africa);
             world.RunFoodChain();
 
+            Console.WriteLine("***************************************\n\n");
         }
     }
 
