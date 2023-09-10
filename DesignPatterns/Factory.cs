@@ -75,6 +75,7 @@ namespace DesignPatterns
             {
                 get { return _pages; }
             }
+            //Factory method
             public abstract void CreatePages();
         }
 
